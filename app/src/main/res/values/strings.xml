@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EASY Task Management</string>
+    <string name="update_todo">Update Task</string>
+    <string name="add_todo">Add New Task</string>
+</resources>
